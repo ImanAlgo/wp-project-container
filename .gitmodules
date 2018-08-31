@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/advanced-user-taxonomy"]
+	path = wp-content/plugins/advanced-user-taxonomy
+	url = git@github.com:ImanAlgo/advanced-user-taxonomy.git
